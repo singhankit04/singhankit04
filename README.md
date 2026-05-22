@@ -19,12 +19,9 @@ Currently focused on mastering backend development with modern technologies and 
 
 * Node.js
 * Express
+* Mongoose
 * REST APIs
-* Authentication & Authorization
-* OAuth 2.0
-* JWT Authentication
-* Middleware
-
+  
 ### 🗄️ Database
 
 * MongoDB
@@ -71,9 +68,9 @@ A backend-powered resume analysis system that:
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhankit04\&show_icons=true)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhankit04&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhankit04\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhankit04&layout=compact&theme=tokyonight)
 
 ---
 
@@ -84,7 +81,6 @@ A backend-powered resume analysis system that:
 * Docker
 * Microservices
 * System Design
-* Scalable Authentication Systems
 
 ---
 
