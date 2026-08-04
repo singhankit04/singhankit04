@@ -83,11 +83,11 @@ A backend-powered resume analysis system that matches resumes with job descripti
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhankit04&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhankit04&theme=github-dark-blue&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/singhankit04?theme=dark&font=Nunito&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/singhankit04?theme=dark&font=Nunito&ext=heatmap&border=2&radius=10" alt="LeetCode Stats" />
 </p>
 
 ---
